@@ -1,0 +1,44 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E9F5E9;
+    color: #006437;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  header {
+    background: linear-gradient(45deg, #166e00, #000000);
+    color: #f9f8f4;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 5px solid #ffffff;
+    
+  }
+  nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+  }
+  section {
+    margin: 2rem;
+    text-align: center justify;
+  }
+  footer {
+    background: linear-gradient(45deg, #003a08, #006400);
+    color: #f9f8f4;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    text-align: center;
+    border: 5px solid green;
+  }
